@@ -1,3 +1,4 @@
+````
 .
 ├── application
 │   ├── controllers
@@ -15,3 +16,12 @@
 └── README.md
 
 4 directories, 10 files
+```
+
+# Instruksi
+
+* Fork repository ini
+* Tulis nama, nrp dan user name anda di list berikut
+    - nama, nrp, user name
+* Kontribusi
+* Ajukan pull request
