@@ -23,15 +23,7 @@
 * Fork repository ini
 * Tulis nama, nrp dan user name anda di list berikut
     - nama, nrp, user name
+    - Dio Okky Affriza, 14111014, afuriza
+    - Erwan Kusuma Wijaya, 141111018, Onlycrash
 * Kontribusi
 * Ajukan pull request
-
-Owner
-```
-
-* Nama
-	- Dio Okky Affriza
-* NRP
-	- 141111014
-* Username
-	- afuriza
