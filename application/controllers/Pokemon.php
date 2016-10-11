@@ -25,7 +25,7 @@ class Pokemon extends CI_Controller{
         $nama = $this->input->post('nama'); // dapatkan nilai inputan nama
         $tipe = $this->input->post('tipe'); // dapatkan nilai inputan tipe
         // TODO: panggil fungsi insert di pokemon_model
-        // TODO: load view pokemon_insert_action.
+        // TODO: load view pokemon_insert_action
     }
 
     // URL : http://localhost/[directory]/index.php/pokemon/update_form/[id]
