@@ -25,3 +25,13 @@
     - nama, nrp, user name
 * Kontribusi
 * Ajukan pull request
+
+Owner
+```
+
+* Nama
+	- Dio Okky Affriza
+* NRP
+	- 141111014
+* Username
+	- afuriza
