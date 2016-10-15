@@ -25,3 +25,7 @@
     - nama, nrp, user name
 * Kontribusi
 * Ajukan pull request
+
+-Nama   : Erwan Kusuma Wijaya
+-NRP    : 141-111-018
+-Uname  : Onlycrash
